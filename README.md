@@ -86,7 +86,8 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 
 ⭐ Adicionando aos favoritos (**star**) 
 
-### Membros da comunidade que já contribuiram:
+⭐ *sobre ?* 
+O GitHub é uma plataforma essencial para o desenvolvimento colaborativo e a gestão de código-fonte. Iniciar um projeto nesta plataforma pode parecer uma tarefa desafiadora para iniciantes, mas com um entendimento básico dos passos necessários, o processo se torna bastante acessível. Este texto busca orientar sobre os passos fundamentais para começar um projeto no GitHub, proporcionando uma base sólida para desenvolvedores novatos e experientes.
 <a href="https://github.com/digitalinnovationone/dio-lab-open-source/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=digitalinnovationone/dio-lab-open-source"/>
 </a>
